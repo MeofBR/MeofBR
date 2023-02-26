@@ -22,3 +22,8 @@
   <img align="center" alt="MeofBR-Csharp" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?">
   
 </div>
+<br>
+
+<a href="https://github.com/meofbr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meofbr&theme=merko">
+</a>
